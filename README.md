@@ -1,7 +1,8 @@
 # Run
 
 1. Run this command in the terminal
-```node index.js```
+```node index.js``` or ```node express.js```<br>
+
 2. Go to any of these sites <br>
 localhost:8080 should take users to index.html <br>
 localhost:8080/about should take users to about.html <br>
